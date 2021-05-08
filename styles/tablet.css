@@ -1,0 +1,28 @@
+.benefits__cards {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 0 auto;       
+}
+.benefits__cards--information {
+    width: 40%;
+    max-width: 900px;
+}
+.main__exchange--container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;    
+    padding-bottom: 60px;
+    padding-top: 50px;
+    justify-content: space-evenly;
+}
+.main__exchange-container--title {
+    width: 45%;
+}
+.main__tables--container {
+    width: 45%;
+}
+.plans__slider--container {
+    justify-content: center;
+}
